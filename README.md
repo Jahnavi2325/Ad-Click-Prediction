@@ -1,6 +1,13 @@
 # Ad-Click-Prediction
 # Machine-Learning-Project-Starter
 
+##### Raw Data:
+I have collected the dataset from kaggle. 
+
+source link: https://www.kaggle.com/datasets/nehadammannagari/advertising-dataset
+
+There is very less publicly available data set for ad click.
+
 State of project:
 Model is completly implemented with Logistic Regression.
 
