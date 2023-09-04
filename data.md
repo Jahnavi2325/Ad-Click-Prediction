@@ -17,12 +17,12 @@ Logistic Regression is incredibly easy to implement and very efficient to train.
 
 
 ### Links to Notebooks
--[Initial Exploration](initial_exploration.ipynb)
+-[Initial Exploration](initial_exploration-2.ipynb)
 
--[linear_regression](linear_regression.ipynb)
+-[linear_regression](linear_regression-2.ipynb)
 
--[Classification](classification.ipynb)
+-[Classification](classification-2.ipynb)
 
--[Clustering & NN](clustering.ipynb)
+-[Clustering & NN](clustering-2.ipynb)
 
 Visualizations can be found in Initial Exploration.
